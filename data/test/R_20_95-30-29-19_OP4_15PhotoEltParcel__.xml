@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Termites1&amp;2</folder>
+	<filename>R_20_95-30-29-19_OP4_15PhotoEltParcel__.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\Termites1&amp;2\R_20_95-30-29-19_OP4_15PhotoEltParcel__.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Virose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>380</ymin>
+			<xmax>423</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

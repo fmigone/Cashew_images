@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bactériose</folder>
+	<filename>R_6_03-38-33-65_OP4_21PhotoEtatsante___5.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Bactériose\R_6_03-38-33-65_OP4_21PhotoEtatsante___5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bactériose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>355</ymin>
+			<xmax>310</xmax>
+			<ymax>619</ymax>
+		</bndbox>
+	</object>
+</annotation>

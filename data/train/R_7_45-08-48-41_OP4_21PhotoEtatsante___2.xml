@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ploceadorus ferrugineus</folder>
+	<filename>R_7_45-08-48-41_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\ploceadorus ferrugineus\R_7_45-08-48-41_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ploceadorus ferrugineus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>311</ymin>
+			<xmax>515</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Alternariose</folder>
+	<filename>R_15_17-82-93-79_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Alternariose\R_15_17-82-93-79_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Alternariose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>22</ymin>
+			<xmax>2004</xmax>
+			<ymax>1937</ymax>
+		</bndbox>
+	</object>
+</annotation>
