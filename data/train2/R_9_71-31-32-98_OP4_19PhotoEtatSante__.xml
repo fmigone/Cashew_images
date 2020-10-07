@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Termites</folder>
+	<filename>R_9_71-31-32-98_OP4_19PhotoEtatSante__.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Termites\R_9_71-31-32-98_OP4_19PhotoEtatSante__.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Termites</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>236</ymin>
+			<xmax>472</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>
