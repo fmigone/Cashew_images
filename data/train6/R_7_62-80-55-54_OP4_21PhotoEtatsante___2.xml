@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anoplocnemis curvipes1</folder>
+	<filename>R_7_62-80-55-54_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\Anoplocnemis curvipes1\R_7_62-80-55-54_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anoplonemis curvipes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>287</ymin>
+			<xmax>1809</xmax>
+			<ymax>1752</ymax>
+		</bndbox>
+	</object>
+</annotation>

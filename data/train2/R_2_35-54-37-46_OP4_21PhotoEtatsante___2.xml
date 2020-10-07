@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gommose</folder>
+	<filename>R_2_35-54-37-46_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Gommose\R_2_35-54-37-46_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gommose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>772</ymin>
+			<xmax>1444</xmax>
+			<ymax>2502</ymax>
+		</bndbox>
+	</object>
+</annotation>

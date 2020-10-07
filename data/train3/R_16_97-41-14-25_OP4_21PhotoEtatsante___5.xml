@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Dysdercus wolkerii</folder>
+	<filename>R_16_97-41-14-25_OP4_21PhotoEtatsante___5.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\Dysdercus wolkerii\R_16_97-41-14-25_OP4_21PhotoEtatsante___5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dysdercus wolkerii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>371</ymin>
+			<xmax>446</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dysdercus wolkerii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>353</ymin>
+			<xmax>368</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dysdercus wolkerii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>414</ymin>
+			<xmax>569</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

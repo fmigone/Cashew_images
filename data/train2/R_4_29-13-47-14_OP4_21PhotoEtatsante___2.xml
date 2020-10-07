@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Correction</folder>
+	<filename>R_4_29-13-47-14_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Dessèchement des bourgeons\Dessèchement des bourgeons\Correction\R_4_29-13-47-14_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dessèchement des bourgeons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>522</ymin>
+			<xmax>261</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dessèchement des bourgeons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>296</ymin>
+			<xmax>611</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dessèchement des bourgeons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>200</ymin>
+			<xmax>219</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

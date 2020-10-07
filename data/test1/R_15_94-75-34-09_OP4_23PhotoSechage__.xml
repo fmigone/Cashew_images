@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gommose</folder>
+	<filename>R_15_94-75-34-09_OP4_23PhotoSechage__.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Gommose\R_15_94-75-34-09_OP4_23PhotoSechage__.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gommose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>250</ymin>
+			<xmax>541</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

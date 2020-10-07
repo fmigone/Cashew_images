@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Rouille1</folder>
+	<filename>R_6_44-38-57-55_OP4_21PhotoEtatsante___1.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\Rouille1\R_6_44-38-57-55_OP4_21PhotoEtatsante___1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rouille</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>340</ymin>
+			<xmax>546</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+</annotation>

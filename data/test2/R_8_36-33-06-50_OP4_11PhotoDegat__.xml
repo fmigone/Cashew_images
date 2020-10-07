@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Helopeltis anacardii</folder>
+	<filename>R_8_36-33-06-50_OP4_11PhotoDegat__.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Helopeltis anacardii\R_8_36-33-06-50_OP4_11PhotoDegat__.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helopeltis anacardii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>525</ymin>
+			<xmax>533</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helopeltis anacardii</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>827</ymin>
+			<xmax>144</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+</annotation>

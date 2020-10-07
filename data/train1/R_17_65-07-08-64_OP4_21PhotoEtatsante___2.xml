@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Carence minérale</folder>
+	<filename>R_17_65-07-08-64_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\ETAT_SANTE\Carence minérale\R_17_65-07-08-64_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>411</ymin>
+			<xmax>468</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>

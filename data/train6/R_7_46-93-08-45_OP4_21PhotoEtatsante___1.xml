@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dessèchement des bourgeons</folder>
+	<filename>R_7_46-93-08-45_OP4_21PhotoEtatsante___1.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Dessèchement des bourgeons\R_7_46-93-08-45_OP4_21PhotoEtatsante___1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dessèchement des bourgeons</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1024</xmin>
+			<ymin>1177</ymin>
+			<xmax>1284</xmax>
+			<ymax>1927</ymax>
+		</bndbox>
+	</object>
+</annotation>

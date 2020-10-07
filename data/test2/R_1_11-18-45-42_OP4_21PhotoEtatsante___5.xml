@@ -1,0 +1,254 @@
+<annotation>
+	<folder>Carence minérale</folder>
+	<filename>R_1_11-18-45-42_OP4_21PhotoEtatsante___5.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\ETAT_SANTE\Carence minérale\R_1_11-18-45-42_OP4_21PhotoEtatsante___5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>814</xmin>
+			<ymin>1692</ymin>
+			<xmax>1059</xmax>
+			<ymax>1957</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>809</xmin>
+			<ymin>1937</ymin>
+			<xmax>1039</xmax>
+			<ymax>2107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>954</xmin>
+			<ymin>2022</ymin>
+			<xmax>1129</xmax>
+			<ymax>2332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>664</xmin>
+			<ymin>2012</ymin>
+			<xmax>909</xmax>
+			<ymax>2357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>1872</ymin>
+			<xmax>624</xmax>
+			<ymax>2147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1804</xmin>
+			<ymin>1072</ymin>
+			<xmax>2254</xmax>
+			<ymax>1447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1524</xmin>
+			<ymin>1862</ymin>
+			<xmax>1834</xmax>
+			<ymax>2297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1734</xmin>
+			<ymin>2572</ymin>
+			<xmax>1989</xmax>
+			<ymax>2917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>2257</ymin>
+			<xmax>579</xmax>
+			<ymax>2537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2232</ymin>
+			<xmax>280</xmax>
+			<ymax>2612</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2119</xmin>
+			<ymin>2297</ymin>
+			<xmax>2354</xmax>
+			<ymax>2592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2014</xmin>
+			<ymin>2612</ymin>
+			<xmax>2249</xmax>
+			<ymax>2877</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>674</xmin>
+			<ymin>2572</ymin>
+			<xmax>929</xmax>
+			<ymax>2802</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>682</ymin>
+			<xmax>1789</xmax>
+			<ymax>1182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1499</xmin>
+			<ymin>2282</ymin>
+			<xmax>1804</xmax>
+			<ymax>2632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1289</xmin>
+			<ymin>1777</ymin>
+			<xmax>1489</xmax>
+			<ymax>1982</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1144</xmin>
+			<ymin>1312</ymin>
+			<xmax>1409</xmax>
+			<ymax>1562</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymin>1757</ymin>
+			<xmax>1279</xmax>
+			<ymax>1997</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1024</xmin>
+			<ymin>2397</ymin>
+			<xmax>1244</xmax>
+			<ymax>2712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Carence minérale</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2079</xmin>
+			<ymin>1532</ymin>
+			<xmax>2369</xmax>
+			<ymax>1802</ymax>
+		</bndbox>
+	</object>
+</annotation>

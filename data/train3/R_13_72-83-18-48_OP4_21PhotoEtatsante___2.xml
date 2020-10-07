@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Helopeltis anacardii</folder>
+	<filename>R_13_72-83-18-48_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Helopeltis anacardii\R_13_72-83-18-48_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helopeltis anacardii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>562</ymin>
+			<xmax>200</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helopeltis anacardii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>534</ymin>
+			<xmax>267</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helopeltis anacardii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>636</ymin>
+			<xmax>623</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

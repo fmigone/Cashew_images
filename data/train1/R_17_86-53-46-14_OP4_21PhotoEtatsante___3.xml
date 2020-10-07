@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Anoplocnemis curvipes</folder>
+	<filename>R_17_86-53-46-14_OP4_21PhotoEtatsante___3.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Anoplocnemis curvipes\R_17_86-53-46-14_OP4_21PhotoEtatsante___3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anoplocnemis curvipes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>822</ymin>
+			<xmax>1439</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Anoplocnemis curvipes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>1632</ymin>
+			<xmax>1464</xmax>
+			<ymax>2497</ymax>
+		</bndbox>
+	</object>
+</annotation>

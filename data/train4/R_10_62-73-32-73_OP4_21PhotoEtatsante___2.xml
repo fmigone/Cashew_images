@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Mecocorynus longiceps</folder>
+	<filename>R_10_62-73-32-73_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\Mecocorynus longiceps\R_10_62-73-32-73_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mecocorynus longiceps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>406</ymin>
+			<xmax>399</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mecocorynus longiceps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>899</ymin>
+			<xmax>560</xmax>
+			<ymax>1010</ymax>
+		</bndbox>
+	</object>
+</annotation>

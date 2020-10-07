@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pestalotiose</folder>
+	<filename>R_6_60-96-72-95_OP4_21PhotoEtatsante___2.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Pestalotiose\R_6_60-96-72-95_OP4_21PhotoEtatsante___2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pestalotiose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1544</xmin>
+			<ymin>122</ymin>
+			<xmax>2294</xmax>
+			<ymax>1162</ymax>
+		</bndbox>
+	</object>
+</annotation>

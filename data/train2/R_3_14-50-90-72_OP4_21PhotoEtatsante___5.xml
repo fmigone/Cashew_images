@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Anthracnose</folder>
+	<filename>R_3_14-50-90-72_OP4_21PhotoEtatsante___5.jpg</filename>
+	<path>D:\Nuisible_anacardier\ETAT_SANTE\Anthracnose\R_3_14-50-90-72_OP4_21PhotoEtatsante___5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anthracnose</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>264</ymin>
+			<xmax>113</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

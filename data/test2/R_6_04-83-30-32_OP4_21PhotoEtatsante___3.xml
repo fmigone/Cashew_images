@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Die-black</folder>
+	<filename>R_6_04-83-30-32_OP4_21PhotoEtatsante___3.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\Die-black\R_6_04-83-30-32_OP4_21PhotoEtatsante___3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Die-black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>424</ymin>
+			<xmax>502</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Die-black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>455</ymin>
+			<xmax>361</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+</annotation>

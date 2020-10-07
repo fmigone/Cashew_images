@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Analepse trifasciata</folder>
+	<filename>R_11_02-09-13-90_OP4_21PhotoEtatsante___5.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\ETAT_SANTE\Analepse trifasciata\R_11_02-09-13-90_OP4_21PhotoEtatsante___5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Analepse trifasciata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymin>1767</ymin>
+			<xmax>1409</xmax>
+			<ymax>2482</ymax>
+		</bndbox>
+	</object>
+</annotation>
