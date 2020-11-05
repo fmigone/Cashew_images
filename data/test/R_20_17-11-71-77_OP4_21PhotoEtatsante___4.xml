@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apate terebrans</folder>
+	<filename>R_20_17-11-71-77_OP4_21PhotoEtatsante___4.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\ETAT_SANTE\Apate terebrans\R_20_17-11-71-77_OP4_21PhotoEtatsante___4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apate terebrans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>353</ymin>
+			<xmax>489</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Oïdium</folder>
+	<filename>R_1_28-90-21-27_OP4_19PhotoEtatSante__.jpg</filename>
+	<path>C:\Users\KOFFI OI\Desktop\MAX\NAYO\ETAT_SANTE\Oïdium\R_1_28-90-21-27_OP4_19PhotoEtatSante__.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oidium</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>882</ymin>
+			<xmax>2199</xmax>
+			<ymax>3202</ymax>
+		</bndbox>
+	</object>
+</annotation>

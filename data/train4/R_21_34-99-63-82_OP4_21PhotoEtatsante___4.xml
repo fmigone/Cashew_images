@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>R_21_34-99-63-82_OP4_21PhotoEtatsante___4.jpg</filename>
+	<path>Z:\TRAVAIL_CABINET\PhotoInterpretation\PhotoInterpretation\Apate terebrans1\images\R_21_34-99-63-82_OP4_21PhotoEtatsante___4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apate terebrans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>173</ymin>
+			<xmax>315</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>
