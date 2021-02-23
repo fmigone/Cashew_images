@@ -1,0 +1,36 @@
+Format
+
+Tensorflow TFRecord	https://app.roboflow.com/ds/iLjsUTOKq1?key=lMusl9kv7h
+
+OpenAI Clip Classification	https://app.roboflow.com/ds/erV5UFg3S7?key=Wyfiww4MXN
+
+Multiclass Classification	https://app.roboflow.com/ds/zZc9KxV35V?key=6f8EPHHqv5
+
+RetinaNet Keras	https://app.roboflow.com/ds/AktFOpBnz7?key=aO9CQvPrYd
+
+Tensorflow Object Detection	https://app.roboflow.com/ds/XNoG6uNQ91?key=ktLwcdRWy1
+
+YOLO v5 PyTorch	https://app.roboflow.com/ds/4JmYZCMTnV?key=6xetdZ80nX
+
+Scaled-YOLOv4	https://app.roboflow.com/ds/5CJlZwbOTU?key=OAgS31H8oc
+
+YOLO v3 Keras	https://app.roboflow.com/ds/0e7LNvb7It?key=rsOQ2WfHEa
+
+YOLO Darknet	https://app.roboflow.com/ds/0YPuZCyFS5?key=pLTaLLpgml
+
+Pascal VOC	https://app.roboflow.com/ds/LwcRJF6Sxn?key=MpM29P3GWy
+
+CreateML	https://app.roboflow.com/ds/iriOBP8Fz9?key=42f2tpKF3X
+
+COCO	https://app.roboflow.com/ds/64uEhJkLmp?key=nLFGgGoifc
+
+
+
+
+
+
+
+
+
+
+
