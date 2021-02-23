@@ -1,0 +1,55 @@
+item {
+    name: "Analepse trifasciata",
+    id: 1,
+    display_name: "Analepse trifasciata"
+}
+item {
+    name: "Anthracnose",
+    id: 2,
+    display_name: "Anthracnose"
+}
+item {
+    name: "Apate terebrans",
+    id: 3,
+    display_name: "Apate terebrans"
+}
+item {
+    name: "Carence minerale",
+    id: 4,
+    display_name: "Carence minerale"
+}
+item {
+    name: "Dessechement des bourgeons",
+    id: 5,
+    display_name: "Dessechement des bourgeons"
+}
+item {
+    name: "Die-black",
+    id: 6,
+    display_name: "Die-black"
+}
+item {
+    name: "Dysdercus wolkerii",
+    id: 7,
+    display_name: "Dysdercus wolkerii"
+}
+item {
+    name: "Gommose",
+    id: 8,
+    display_name: "Gommose"
+}
+item {
+    name: "Oidium",
+    id: 9,
+    display_name: "Oidium"
+}
+item {
+    name: "Termites",
+    id: 10,
+    display_name: "Termites"
+}
+item {
+    name: "ploceadorus ferrugineus",
+    id: 11,
+    display_name: "ploceadorus ferrugineus"
+}
